@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Informe sobre herramientas DevOps 2020
+          Informe sobre herramientas DevOps 2020 ..
         </a>
         <a
           className="App-link"
